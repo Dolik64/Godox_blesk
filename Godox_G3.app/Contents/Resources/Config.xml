@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Config>
+
+    <help_url>http://www.godox.com</help_url>
+    <language ID="Chinese">
+        <Type>中文</Type>
+        <Title>Godox固件升级软件</Title>
+        <SelectFileButton>打开文件</SelectFileButton>
+        <UpdateButton>升级</UpdateButton>
+        <ExitButtio>退出</ExitButtio>
+        <HelpButtio>帮助</HelpButtio>
+        <Notice>打开文件失败</Notice>
+        <Notice>文件大小不合格</Notice>
+        <Notice>读取文件失败</Notice>
+        <Notice>打开文件</Notice>
+        <Notice>连接设备成功</Notice>
+        <Notice>设备断开连接</Notice>
+        <Notice>请先连接设备</Notice>
+        <Notice>请先打开文件</Notice>
+        <Notice>更新设备失败</Notice>
+        <Notice>更新设备成功</Notice>
+    </language>
+    <language ID="English">
+        <Type>English</Type>
+        <Title>Godox Firmware Update</Title>
+        <SelectFileButton>Open File</SelectFileButton>
+        <UpdateButton>Update</UpdateButton>
+        <ExitButtio>Exit</ExitButtio>
+        <HelpButtio>help</HelpButtio>
+        <Notice>Open file error</Notice>
+        <Notice>File size error</Notice>
+        <Notice>Read file error</Notice>
+        <Notice>open file </Notice>
+        <Notice>device connected</Notice>
+        <Notice>device disconnected</Notice>
+        <Notice>please connent device</Notice>
+        <Notice>please open file</Notice>
+        <Notice>update device error</Notice>
+        <Notice>update device success</Notice>
+    </language>
+
+</Config>
